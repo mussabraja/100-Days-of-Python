@@ -1,7 +1,7 @@
 # 🐍 100 Days of Python
-From telecommunications to Python. Documenting my journey — one project (and one bug) at a time.
+From Electrical (Telecommunications) to Python. Documenting my journey — one project (and one bug) at a time.
 
-Hi, I'm **Mussab** — an Electrical Engineering graduate with a background (BS) in telecommunications and electrical engineering, teaching myself Python and working toward a long-term goal of becoming a **Machine Learning Engineer**, subsequently to learn the art of **MLOps, Data Engineering and Agentic AI**.
+Hi, I'm **Mussab** — an Electrical Engineering graduate with a background (BS) in Electrical (Telecommunications), teaching myself Python and working toward a long-term goal of becoming a **Machine Learning Engineer**, subsequently to learn the art of **MLOps, Data Engineering and Agentic AI**.
 
 This repo tracks my progress through Angela Yu's *100 Days of Code* bootcamp. No shortcuts, no copy-paste; every project here I built myself, debugging my way through as I go.
 
@@ -24,6 +24,8 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 06 | [Reeborg's World](./day-06-reeborg) | functions, `while` loops, conditionals |
 | 07 | [Hangman](./day-07-hangman) | nested loops, string indexing, state tracking |
 | 08 | [Caesar Cipher](./day-08-caesar-cipher) | functions with parameters, modulo, encryption |
+| 09 | [Secret Auction](./day-09-secret-auction) | dictionaries, nested data, max tracking |
+| 10 | [Calculator](./day-10-calculator) | functions as values, recursion, return |
 
 ---
 
@@ -34,4 +36,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 8** and counting. Follow along as this list grows!
+Currently on **Day 10** and counting.. Follow along as this list grows!
