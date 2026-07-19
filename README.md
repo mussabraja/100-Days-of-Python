@@ -27,7 +27,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 09 | [Secret Auction](./day-09-secret-auction) | dictionaries, nested data, max tracking |
 | 10 | [Calculator](./day-10-calculator) | functions as values, recursion, return |
 | 11 | [Blackjack](./day-11-blackjack) | lists, `sum()`, state persistence, ace-value logic |
-| 12 | [Number Guessing Game](./day-12-number-guessing) | scope, `global` keyword, functions, nested conditionals |
+| 12 | [Number Guessing Game](./Day%2012%3A%20Number%20Guessing%20Game) | scope, `global` keyword, functions, nested conditionals |
 ---
 
 ## 🛠️ Built With
