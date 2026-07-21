@@ -28,6 +28,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 10 | [Calculator](./day-10-calculator) | functions as values, recursion, return |
 | 11 | [Blackjack](./Day%2011%20-%20Blackjack%20Capstone) | lists, `sum()`, state persistence, ace-value logic |
 | 12 | [Number Guessing Game](./Day%2012%3A%20Number%20Guessing%20Game) | scope, `global` keyword, functions, nested conditionals |
+| 14 | [Higher Lower Game](./day-14-higher-lower) | dictionaries, `.pop()`, nested conditionals, game state management |
 ---
 
 ## 🛠️ Built With
@@ -37,4 +38,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 12** and counting.. Follow along as this list grows!
+Currently on **Day 14** and counting.. Follow along as this list grows!
