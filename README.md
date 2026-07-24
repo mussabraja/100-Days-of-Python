@@ -31,6 +31,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 14 | [Higher Lower Game](./day-14-higher-lower) | dictionaries, `.pop()`, nested conditionals, game state management |
 | 15 | [Coffee Machine](./day-15-coffee-machine) | functions, nested dictionaries, multi-stage validation, input handling |
 | 16 | [Coffee Machine](day-16/main.py) | OOP |
+| 17  | [Quiz Game](main.py) | OOP (classes, objects, self, __init__) |
 ---
 
 ## 🛠️ Built With
@@ -40,4 +41,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 16** and counting.. Follow along as this list grows!
+Currently on **Day 17** and counting.. Follow along as this list grows!
