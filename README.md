@@ -32,7 +32,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 15 | [Coffee Machine](./day-15-coffee-machine) | functions, nested dictionaries, multi-stage validation, input handling |
 | 16 | [Coffee Machine](day-16/main.py) | OOP |
 | 17 | [Quiz Game](main.py) | OOP (classes, objects, self, __init__) |
-| 18 | [Day 18 - Hirst Painting](./Day-18/main.py)
+| 18 | [Hirst Painting](./Day-18/main.py) | turtle graphics, nested loops, RGB colors, `random.choice()` |
 ---
 
 ## 🛠️ Built With
