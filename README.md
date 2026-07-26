@@ -30,9 +30,9 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 12 | [Number Guessing Game](./Day%2012%3A%20Number%20Guessing%20Game) | scope, `global` keyword, functions, nested conditionals |
 | 14 | [Higher Lower Game](./day-14-higher-lower) | dictionaries, `.pop()`, nested conditionals, game state management |
 | 15 | [Coffee Machine](./day-15-coffee-machine) | functions, nested dictionaries, multi-stage validation, input handling |
-| 16 | [Coffee Machine](day-16/main.py) | OOP |
-| 17 | [Quiz Game](main.py) | OOP (classes, objects, self, __init__) |
-| 18 | [Hirst Painting](./Day-18/main.py) | turtle graphics, nested loops, RGB colors, `random.choice()` |
+| 16 | [Coffee Machine](./day-16-coffee-machine-OOP) | OOP |
+| 17 | [Quiz Game](./day-17-Quiz-Game) | OOP (classes, objects, self, `__init__`) |
+| 18 | [Hirst Painting](./day-18-hirst-painting) | turtle graphics, nested loops, RGB colors, `random.choice()` |
 ---
 
 ## 🛠️ Built With
