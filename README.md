@@ -34,6 +34,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 17 | [Quiz Game](./day-17-Quiz-Game) | OOP (classes, objects, self, `__init__`) |
 | 18 | [Hirst Painting](./day-18-hirst-painting) | turtle graphics, nested loops, RGB colors, `random.choice()` |
 | 19 | [Turtle Race](./day-19-turtle-race) | classes & objects, object state, lists of objects, `while` loops, `random.randint()` |
+| 20 | [Snake Game](./day-20-snake-game) | building your own class, `__init__`, methods, event listeners, multi-file projects |
 ---
 
 ## 🛠️ Built With
@@ -43,4 +44,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 19** and counting.. Follow along as this list grows!
+Currently on **Day 20** and counting.. Follow along as this list grows!
