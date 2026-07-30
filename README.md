@@ -36,6 +36,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 19 | [Turtle Race](./day-19-turtle-race) | classes & objects, object state, lists of objects, `while` loops, `random.randint()` |
 | 20 | [Snake Game](./day-20-snake-part-1) | building your own class, `__init__`, methods, event listeners, multi-file projects |
 | 21 | [Snake Game](./day-21-snake-game-complete) | inheritance, `super()`, multiple classes, collision detection, `write()` and `clear()` |
+| 22 | [Pong Game](./day-22-pong-game) | inheritance, multiple classes, ball physics (bounce), collision detection, 2-player controls |
 ---
 
 ## 🛠️ Built With
@@ -45,4 +46,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 21** and counting.. Follow along as this list grows!
+Currently on **Day 22** and counting.. Follow along as this list grows!
