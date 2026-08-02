@@ -38,6 +38,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 21 | [Snake Game](./day-21-snake-game-complete) | inheritance, `super()`, multiple classes, collision detection, `write()` and `clear()` |
 | 22 | [Pong Game](./day-22-pong-game) | inheritance, multiple classes, ball physics (bounce), collision detection, 2-player controls |
 | 23 | [Turtle Crossing](./day-23-capstone-turtle-crossing-game) | first capstone, multiple classes, object lists, collision detection, level progression |
+| 24 | [Mail Merge](./day-24-mail-merge) | file read/write, readlines, string replace, relative vs absolute paths, generating files in a loop |
 ---
 
 ## 🛠️ Built With
@@ -47,4 +48,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 23** and counting.. Follow along as this list grows!
+Currently on **Day 24** and counting.. Follow along as this list grows!
