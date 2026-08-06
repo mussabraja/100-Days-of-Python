@@ -41,6 +41,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 24 | [Mail Merge](./day-24-mail-merge) | file read/write, readlines, string replace, relative vs absolute paths, generating files in a loop |
 | 25 | [US States Game](./day-25-us-states-game-start) | pandas read_csv, filtering rows, .values, user input loop, writing to a turtle map |
 | 26 | [NATO Phonetic Alphabet](./day-26-NATO-alphabet-start) | list & dictionary comprehension, pandas .iterrows(), building a dict from CSV |
+| 27 | [Miles to Km Converter](./day-27-miles_to_km_converter) | tkinter GUI, labels/buttons/entry, grid layout, *args, button command → function |
 ---
 
 ## 🛠️ Built With
