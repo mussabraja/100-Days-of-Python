@@ -43,6 +43,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 26 | [NATO Phonetic Alphabet](./day-26-NATO-alphabet-start) | list & dictionary comprehension, pandas .iterrows(), building a dict from CSV |
 | 27 | [Miles to Km Converter](./day-27-miles_to_km_converter) | tkinter GUI, labels/buttons/entry, grid layout, *args, button command → function |
 | 28 | [Pomodoro Timer](./day-28-Pomodoro%20Project) | tkinter Canvas, `after()` timer, countdown mechanism, event-driven GUI, global state management, reset functionality |
+| 29 | [Password Manager](./day-29-password-manager-start) | tkinter grid layout, `Entry`/`Label`/`Button` widgets, list comprehensions, `random.choice`/`randint`/`shuffle`, file append, `messagebox` validation, `pyperclip` clipboard |
 ---
 
 ## 🛠️ Built With
@@ -52,4 +53,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 28** and counting.. Follow along as this list grows!
+Currently on **Day 29** and counting.. Follow along as this list grows!
