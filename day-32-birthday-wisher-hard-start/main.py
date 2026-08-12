@@ -2,8 +2,8 @@ import smtplib
 import datetime as dt
 import pandas as pd
 
-my_email = "mussabsabir27@gmail.com"
-my_password = "qvcaybejdlqcfekz"
+my_email = "enter email"
+my_password = "enter password"
 
 
 
