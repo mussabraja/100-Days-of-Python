@@ -47,6 +47,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 30 | [Password Manager (Updated)](./day-30-Updated%20Password%20Manager) | exception handling (`try`/`except`/`else`/`finally`), `FileNotFoundError`, JSON `json.dump`/
 | 31 | [Flashcard App](./day-31-flash-card-project-start) | Tkinter, pandas, after(), file persistence |
 | 32 | [Automated Birthday Wisher](./day-32-birthday-wisher-hard-start) | pandas, smtplib, datetime, file handling |
+| 33 | [Kanye Quotes API](./day-33-kanye-quotes-start) | requests, API, JSON, tkinter |
 ---
 
 ## 🛠️ Built With
@@ -56,4 +57,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 32** and counting.. Follow along as this list grows!
+Currently on **Day 33** and counting.. Follow along as this list grows!
