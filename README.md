@@ -57,4 +57,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 33** and counting.. Follow along as this list grows!
+Currently on **Day 33** and counting... Follow along as this list grows!
