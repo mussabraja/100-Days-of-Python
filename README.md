@@ -49,6 +49,8 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 32 | [Automated Birthday Wisher](./day-32-birthday-wisher-hard-start) | pandas, smtplib, datetime, file handling |
 | 33 | [Kanye Quotes API](./day-33-kanye-quotes-start) | requests, API, JSON, tkinter |
 | 33 | [ISS Overhead Notifier](./day-33-ISS-overhead) | requests, API, JSON, smtplib, datetime |
+| 34 | [Quizzler App](./day-34-quizzler-app-final) | requests, API, JSON, html, OOP, tkinter |
+
 ---
 
 ## 🛠️ Built With
@@ -58,4 +60,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 33** and counting... Follow along as this list grows!
+Currently on **Day 34** and counting... Follow along as this list grows!
