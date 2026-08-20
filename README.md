@@ -53,6 +53,7 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 | 35 | [Weather App (Umbrella Alert)](./day-35-weather-API-challenge) | requests, API, JSON, env vars |
 | 35 | [Weather App (Umbrella Alert)](./day-35-Weather%20App) | requests, API, JSON, env vars |
 | 36 | [Stock Trading News Alert](./day-36-stock-trading-api-project) | requests, 2 APIs, JSON, env vars, slicing |
+| 37 | [Habit Tracker (Pixela API)](./day-37-habit-tracker) | requests, REST API, full CRUD (POST/PUT/DELETE), header auth |
 ---
 
 ## 🛠️ Built With
@@ -62,4 +63,4 @@ Bringing an Electrical Engineering and telecommunications background into **ML E
 ---
 
 ## 📈 Progress
-Currently on **Day 36** and counting... Follow along as this list grows!
+Currently on **Day 37** and counting... Follow along as this list grows!
