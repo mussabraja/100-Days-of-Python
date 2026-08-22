@@ -1,8 +1,10 @@
 # Day 38 - Workout Tracking (Nutritionix + Sheety API)
 
-A Python app that logs workouts to a Google Sheet using natural language.
-Type what you did in plain English (e.g. "ran 3 miles and swam for 30 minutes"),
-and the app parses it into structured exercise data and saves it as a new row.
+A Python app that parses workouts from natural language and sends them to a Google Sheet.
+Type what you did in plain English (e.g. "ran 3 miles and swam for 30 minutes"), and the app
+parses it into structured exercise data (exercise, duration, calories) to log as a new row.
+
+> Status: Nutritionix parsing works; Sheety write-side returning a 500 — debugging pending.
 
 ## How it works
 
@@ -32,4 +34,7 @@ Replace the placeholders in the code with your own credentials:
 
 - `app_id` / `app_key` — from your Nutritionix account
 - `url_sheety` — your Sheety project endpoint
--
+- `auth=("username", "password")` — your Sheety Basic Auth credentials
+
+> Note: credentials are kept as placeholders here. Store real keys in a `.env` file
+> and add `.env` to `.gitignore` before pushing.
